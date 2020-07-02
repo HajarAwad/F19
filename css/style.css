@@ -100,20 +100,14 @@ header {
     padding-bottom: 20px;
 }
 
-
 .makanan {
-
     display: flex;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
     background-color: white;
     border-radius: 20px;
     padding: 30px;
-
     margin-bottom: 20px;
-
 }
-
-
 
 .menu-icon {
     color: white;
@@ -122,7 +116,6 @@ header {
     padding: 21px 0;
     /* Gantikan property display ke none */
     display: none;
-
 }
 
 .makanan img {
@@ -131,14 +124,9 @@ header {
     margin-right: 15px;
 }
 
-.gambar {}
-
 .content-text {
     text-align: left;
 }
-
-
-
 
 footer {
     padding: 20px;
