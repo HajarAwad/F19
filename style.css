@@ -107,6 +107,13 @@ header {
     border-radius: 20px;
     padding: 30px;
     margin-bottom: 20px;
+
+    transition: 1.2s ease;
+}
+
+.makanan:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
 }
 
 .menu-icon {
