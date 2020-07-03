@@ -54,7 +54,7 @@ header {
     background-color: rgba(255, 255, 255, 0.3);
 }
 
-#home.top-wrapper {
+.top-wrapper {
     padding: 180px 0 100px 0;
     background-image: url(asset/img/background.jpg);
     background-size: cover;
