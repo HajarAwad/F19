@@ -132,6 +132,10 @@ header {
     margin-right: 15px;
 }
 
+img {
+    width: 600px;
+}
+
 .content-text {
     text-align: left;
 }
