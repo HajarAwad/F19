@@ -32,6 +32,7 @@ header {
 }
 
 .header-left {
+    padding-top: 15px;
     color: white;
     float: left;
 }
